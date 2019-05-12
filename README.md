@@ -12,6 +12,7 @@ The objectives that were pursued when creating the layout:
 - preprocessor **SCSS (SASS)**,
 - use of **HTML5** and **CSS3** standards,
 - use of **Flexbox** technology,
+- work with media queries,
 - implementation of third-party libraries, open-source solutions and plug-ins,
 - familiarization with the **npm** package manager,
 - partial use of **Gulp** features.
