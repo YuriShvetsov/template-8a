@@ -3,7 +3,7 @@ Website layout with responsive design.
 
 Author: Yuri Shvetsov.
 
-Creation date (without adaptive): 08/08/19.
+Data: 12/05/19.
 
 ------------
 The objectives that were pursued when creating the layout:
