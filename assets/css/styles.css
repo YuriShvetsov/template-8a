@@ -1136,7 +1136,7 @@ body {
   margin: 0 8px 30px; }
 
 .recent-news {
-  max-width: 260px; }
+  width: 260px; }
 
 .recent-news__title {
   margin-bottom: 40px;
@@ -1483,8 +1483,12 @@ body {
 
 /* Portrait phones and smaller */
 @media screen and (max-width: 480px) {
+  .footer__row {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
   .footer__element {
-    margin-bottom: 10px; }
+    margin: 0; }
   .social-box__item {
     width: 30px;
     height: 30px; } }
