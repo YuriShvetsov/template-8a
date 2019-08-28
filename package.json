@@ -1,0 +1,26 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Yuri Shvetsov",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.1",
+    "http-server": "^0.11.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1"
+  }
+}

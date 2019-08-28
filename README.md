@@ -20,10 +20,5 @@ The objectives that were pursued when creating the layout:
 ------------
 Screenshots:
 
-![Image alt](https://github.com/YuriShvetsov/template-8a/blob/master/screens/screen-1.jpg)
+![Image alt](https://github.com/YuriShvetsov/template-8a/blob/master/screens/screen.jpg)
 
-![Image alt](https://github.com/YuriShvetsov/template-8a/blob/master/screens/screen-2.jpg)
-
-![Image alt](https://github.com/YuriShvetsov/template-8a/blob/master/screens/screen-3.jpg)
-
-![Image alt](https://github.com/YuriShvetsov/template-8a/blob/master/screens/screen-4.jpg)
