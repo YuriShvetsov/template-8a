@@ -13,11 +13,11 @@
   "author": "Yuri Shvetsov",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^4.0.1",
     "http-server": "^0.11.1",
     "jquery": "^3.4.1"
   },
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
